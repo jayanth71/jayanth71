@@ -1,7 +1,13 @@
 <h1 align="center">Hey 👋, I'm Jayanth Adithya Nadakuduru</h1>
 <h3 align="center">A Software developer passionate about Backend development, Machine learning and Devops.</h3>
 
-- My previous work includes [File Hosting service](https://github.com/jayanth71/webapp ,https://github.com/jayanth71/infrastructure , https://github.com/jayanth71/serverless)
+-My previous work includes 
+<tr>
+  <td>File Hosting service</td>
+  <td>https://github.com/jayanth71/webapp</td>
+  <td>https://github.com/jayanth71/infrastructure </td>
+  <td>https://github.com/jayanth71/serverless</td>
+</tr>
 
 - 🌱 I’m currently learning **DevOps,Cloud Computing, React, MLOps**
 
