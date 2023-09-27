@@ -34,6 +34,10 @@ Here's some of my work
   <td>Currency Exchange Microservice</td>
   <td><a href="https://github.com/jayanth71/microservices">microservices</a></td>
 </tr>
+    <tr>
+  <td>Medical Insurance Plan Management</td>
+  <td><a href="https://github.com/jayanth71/Medical_insurance_web_app">Medical Insurance Plan Management</a></td>
+</tr>
   <tr>
   <td>Image Captioning</td>
   <td><a href="https://github.com/jayanth71/Image_captioning">Image Captioning</a></td>
